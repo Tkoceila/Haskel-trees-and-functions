@@ -1,2 +1,2 @@
 # Haskel-trees-and-functions
-Create Trees, add nodes delete ones, fusion of trees... and a benchmark for this functions
+Create several kinds of trees, add/delete nodes, fusion trees... most functions are implemented in many different ways. and finally there is a benchmark for this functions.
